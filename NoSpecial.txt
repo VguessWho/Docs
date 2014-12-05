@@ -1,0 +1,23 @@
+Character Screen
+Name
+age.from 17 to 30 (bit limits some quests? just to fuck with players)
+sex 
+backstory (slight boost to skills, quests avalaible at beginning depending on bg)
+traits (the point system, positive perks give -, negative +, value should be 0< )
+////
+Skills - level SLOWLY by passive offline “learn” mechanic / level FAST via use of skill.
+SKILL exp pool - invisible, increases through use of skill, gives skill uh, proficiencies, aka gives some positive things. Weapons - less jam, better mainteance, craft  - better armor, shinier armor/weapon and etc.
+PERKS
+STATS
+
+
+
+////
+SOME OTHER STUFF
+start
+tutorial - skippable
+Picks radio or w/e
+given closest civil town to visit
+gets “radio” frequency
+
+starts exploring shit
