@@ -2,14 +2,34 @@ Character Screen
 Name
 age.from 17 to 30 (bit limits some quests? just to fuck with players)
 sex 
+race?
 backstory (slight boost to skills, quests avalaible at beginning depending on bg)
 traits (the point system, positive perks give -, negative +, value should be 0< )
 ////
 Skills - level SLOWLY by passive offline “learn” mechanic / level FAST via use of skill.
-SKILL exp pool - invisible, increases through use of skill, gives skill uh, proficiencies, aka gives some positive things. Weapons - less jam, better mainteance, craft  - better armor, shinier armor/weapon and etc.
+SKILL exp pool - invisible, increases through use of skill, gives skill uh, 
+  proficiencies, aka gives some positive things. Weapons - less jam, 
+  better mainteance, craft  - better armor, shinier armor/weapon and etc.
+       Skills will requier resources to be leveled on higher levels? Caps/mastur npc quests?
 PERKS
-STATS
+Now here's the question, excluding passive perks like gecko skinning and all that, 
+is it better to make either perks as equipment modules, so players will be able to make em 
+customaziable at any given time OR make them as they are now, 
+being chooseable and pretty much permament but with addition of 
+perks excluding one another by some sysstem? ANd of 2nd, 
+then what stats should perks affect? 
+I honestly can't decide right now.
 
+Now the pluses of modules is, characters are easely tuneable, 
+theere is no need for 2nd/3rd/4th character to do various tasks, you just change your gear.
+It leaves option for players to be more self reliable, 
+but to get that gear you still gonna have to deal with certain niche players
+
+Now as how the gear is adjusted is, can either be instant or requer certain investment from player,
+be that time or resources or etc. and ofc there can be skill reqs for use of that or this gear
+STATS
+The only question to answer here is, to lower random or to leave it as it is.
+Otherwise there's nothing new what is needed to be added to stats atm
 
 
 ////
