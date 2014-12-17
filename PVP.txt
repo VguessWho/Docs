@@ -1,0 +1,32 @@
+So the pvp
+
+Putting the combat system aside, as it's more of a different topic, lets look at pvp as whole.
+Now what to make of it?
+Obviously with full drop, most people's reasoning would be to kill anyone on sight, 
+UNLESS there is some system of punishment which gives them severe disadvantage of leading bandit life for the sake of gain. 
+Now that would not stop the pvp players who do it just for the sake of shooting everyone, 
+but it will make them feel way less safer and welcome in wasteland.
+
+So yes, the general idea right now is to introduce a thing where game checks whom shot first at whom,
+
+Now not just that, we also add diffirence between Outlaw type, so to speak, and non outlaw for the lack of better terms.
+Outlaws are essentially, become permadeath characters. Not only that, they also become shot on sight in towns,
+and depending on bounty on their head and their proximity to a city, can be hunted by a NPC bounty hunters, not to mention players.
+
+Players have a special stat tracking Outlaw progression, which can NEVER or VERY slowly raised in time, 
+by reacing certain point, player becomes Outlaw and can never clean that status off. Perhaps there will be ways for players to
+stay incognito in towns, but that would be very risky, anyhow.
+
+So as to the checks of whom shot first at whom
+Take person A and B
+In case 1 person A is bandit, and B is not.
+B shoots A first, B gets no penalty points.
+A shoots B first, A gets penalty points and the bounty for his head is being raised.
+
+In case 2, person A and B are not bandits.
+B shoots A first, B gets poitns and vice versa.
+
+In case 3, both are bandits.
+They don't get their bounty up, but they might get recognition points or someshit at bandit hideout. Too early to speak of all detaisl atm.
+
+That's the basics of PVP thing in game as of now I can think of.
