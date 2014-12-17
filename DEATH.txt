@@ -1,0 +1,19 @@
+How to adress death in a multiplayer game?
+
+Well there are few ways of doing so.
+
+First and foremost, respawning with some degree of penalty, 
+and I dont mean fulldrop here, that is not a death penalty, because it does not work as penalty for those 
+whom have nothing to loose.
+
+Penalty can be 
+Time or resource based or both,
+a) take WoW example, player have to run to corpse to respawn.
+b) In EVE you want to renew your clone and play N amount of money for it to be sutained
+c) Star Wars Galaxies, you have to find a player healer and wait a bbit for healing to end, 
+after which you can pay said healer (and if you dont, you will be written down into blacklist and might not get healed ever again)
+
+Now the other way to do it is to introduce certain permadeath to a degree.
+In eve way it would be, you lose your characcter and it doesnt have a new clone, you lost time and resources you spent on upping your skills.
+In classical sense, you ded, you cry.
+In some convoluted way it can be implemented in an interesting and working ways, substituing for loss of resources and time but with a more higher severe values and time constrains.
